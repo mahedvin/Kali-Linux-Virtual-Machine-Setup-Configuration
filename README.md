@@ -27,4 +27,11 @@ PROJECT SETUP
   -Configuerd and aupdated package repositories      
   -Refreshed package information using APT      
    Commands used:      
-                  sudo apt update   
+                  sudo apt update      
+4. INSTALLED VIRTUALBOX GUEST ADDITIONS      
+    -Screen resolution scaling
+   -Full-screen support
+   -system inegration and usability
+   commands used:
+   sudo apt install linux-headers-generic
+   
