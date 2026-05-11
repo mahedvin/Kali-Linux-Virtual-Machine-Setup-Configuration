@@ -34,4 +34,9 @@ PROJECT SETUP
    -system inegration and usability      
    commands used:      
    sudo apt install linux-headers-generic
-   
+   <img width="1512" height="982" alt="Screenshot 2026-05-06 at 10 13 25 PM" src="https://github.com/user-attachments/assets/297f9192-08f1-4c44-93d7-dbe4d7b85284" />
+<img width="1512" height="982" alt="Screenshot 2026-05-06 at 10 05 29 PM" src="https://github.com/user-attachments/assets/403bf23b-9b40-47c7-8983-91a38a530d1c" />
+<img width="1512" height="982" alt="Screenshot 2026-05-06 at 10 02 20 PM" src="https://github.com/user-attachments/assets/f9050df5-a3e5-4416-abb5-e7292feae25c" />
+<img width="1512" height="982" alt="Screenshot 2026-05-06 at 9 59 59 PM" src="https://github.com/user-attachments/assets/a6ab1fba-6fb2-420d-8f99-4878d191e87a" />
+<img width="1512" height="982" alt="Screenshot 2026-05-06 at 9 59 52 PM" src="https://github.com/user-attachments/assets/516dbe33-2b1e-4cc0-bbda-22a6ca783f44" />
+
