@@ -13,4 +13,11 @@ TECHNOLOGIES USED
 -Virtualization Platform: VirtualBox  
 -Operating System: Kali Linux  
 -Host Device: MacBook Pro  
--Package Manager: APT
+-Package Manager: APT  
+
+
+PROJECT SETUP  
+1. INSTALLED VIRTUALBOX
+   Installed VirtualBox on macOS to create and managed virtual machines
+2. CREATED KALI LINUX VIRTUAL MACHINE
+  -Allocated sysytem resources(RAM, CPU, Storage)
