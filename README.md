@@ -41,4 +41,12 @@ PROJECT SETUP
 <img width="1512" height="982" alt="Screenshot 2026-05-06 at 10 13 25 PM" src="https://github.com/user-attachments/assets/315af1e0-4268-48c3-9eb3-b0eb61d14732" />
 
 
+SKILLS DEMONSTRATED      
+-Virtual machine deplaoyment      
+-Linux sysytem configuration   
+-APT package manegment      
+-Troubleshooting and problem solving      
+-Basic linux terminal usage
+
+
 
