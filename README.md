@@ -46,7 +46,11 @@ SKILLS DEMONSTRATED
 -Linux sysytem configuration   
 -APT package manegment      
 -Troubleshooting and problem solving      
--Basic linux terminal usage
+-Basic linux terminal usage      
+
+
+SUMMARY      
+This project provided hands-on experience with virtualization and Linux sysytem administration by deplaying and configuring a Kali Linux virtual machine in VirtualBox. It also improved trouleshooting skills through display configuration fixes and package manegment task
 
 
 
