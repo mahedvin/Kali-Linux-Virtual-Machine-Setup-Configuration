@@ -19,5 +19,12 @@ TECHNOLOGIES USED
 PROJECT SETUP  
 1. INSTALLED VIRTUALBOX      
    Installed VirtualBox on macOS to create and managed virtual machines
-2. CREATED KALI LINUX VIRTUAL MACHINE
+2. CREATED KALI LINUX VIRTUAL MACHINE      
   -Allocated sysytem resources(RAM, CPU, Storage)
+  -Attached Kali Linux ISO image
+  -Completed Kali Linux installation process
+3. UPDATED APT SOURCE LIST
+  -Configuerd and aupdated package repositories
+  -Refreshed package information using APT
+   Commands used:
+                  sudo apt update   
